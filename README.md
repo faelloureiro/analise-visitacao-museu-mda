@@ -11,6 +11,10 @@ Base com dados diários de visitação contendo:
 - inteira
 - promocional
 
+ ## Fonte dos dados
+- Os dados foram coletados internamente e estruturados em CSV.
+- Também foram importados para o Google BigQuery para análise via SQL.
+
 ## Ferramentas
 - Google BigQuery
 - SQL
